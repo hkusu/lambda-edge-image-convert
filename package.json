@@ -1,0 +1,15 @@
+{
+  "name": "lambda-edge-image-convert",
+  "version": "0.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "local-run": "NODE_ENV=local node localRun.js",
+    "create-package": "zip -r ./app.zip ./src/ ./node_modules/ ./lib/"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "sharp": "^0.20.1"
+  }
+}
