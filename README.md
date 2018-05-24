@@ -1,1 +1,1 @@
-クックパッド開発者ブログ(http://techlife.cookpad.com)用の参考ソース
+クックパッド開発者ブログ (http://techlife.cookpad.com/entry/2018-05-25-lambda-edge) 用のサンプルコード
